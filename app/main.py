@@ -20,4 +20,7 @@ sorted_variables = {
     "immutable": [int_name, float_name, bool_name, str_name, tuple_name]
 }
 print(dir())
-
+sorted_variables = {
+    "mutable": [list_name, dict_name, set_name],
+    "immutable": [int_name, float_name, bool_name, str_name, tuple_name]
+}
